@@ -1,0 +1,72 @@
+
+
+1. MASCOTAS Y ANIMALES
+ 	*Perro
+	*Gato
+	*Peces
+	*Caballos
+	*Pajaros
+	*Conejo
+
+2. AUTOS,MOTOS y Otros
+	*Auto de coleccion
+	*Camioneta
+	*Maquinaria Pesada	
+	*Motos
+	*Todo terreno
+3. BEBES
+	*Alimentacion del bebe
+	*Juegos y Jugetes
+	*Ropa
+	*Cuarto del bebe
+	*Sugiridad
+	*Higiene
+4. EMPLEO
+	*Secretaria
+	*Programador
+	*Analista
+	*Logistica
+	*Educacion
+	*Cocineros
+
+5. INMOBILIARIA
+	*Apartamentos
+	*Casas
+	*Oficinas
+	*Terrenos
+	*Locales comerciales
+
+6. MODA Y ACCESORIO(JOYA Y RELOJES)
+	*Joyas
+	*Relojes
+	*Gafas
+	
+7. CONSOLAS Y VIDEOJUEGOS
+	*PlayStation 3
+	*PlayStation 4
+	*PSP
+	*Xbox One
+	*Juegos de PS4
+	*Juegos para PC
+
+9. CASA Y JARDIN
+10. TELEFONOS
+
+11. LIBROS,REVISTA Y COMICS
+12. SERVICIOS
+
+13. NEGOCIOS
+14. COMPUTACION
+
+15. AUDIO Y VIDEO
+16. DEPORTES Y FITNESS
+
+17. COLECCIONABLES Y HOBBIES
+18. MUSICA Y PELICULAS
+
+19. SALUD Y BELLEZA
+20. *OTRAS CATEGORIAS
+	-ADULTOS
+	-FIESTAS-COTILLON
+	-ALIMENTOS Y BEBIDAS
+	
