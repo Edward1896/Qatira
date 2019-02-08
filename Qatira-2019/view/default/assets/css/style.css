@@ -1,0 +1,65 @@
+
+body {
+    font-family: 'Open Sans', Arial, Verdana;
+    font-size: 15px;
+    height: 300px;
+}
+
+
+.footer{
+   left: 0;
+   bottom: 0;
+   width: 100%;
+}
+
+/* Large Desktop
+/* ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## */
+@media (min-width: 1200px) {
+  
+}
+/* Defaul Desktop
+/* ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## */
+@media (min-width: 980px) {
+  
+}
+/* Laptop
+/* ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## */
+@media (max-width: 1020px) {
+}
+/* Tablets
+/* ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## */
+@media (max-width: 980px) {
+  
+}
+@media (max-width: 960px) {
+  
+  }
+/* Landskape Phone to Small Desktop & Portrait Tablet
+/* ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## */
+@media (max-width: 767px) {
+
+}
+@media (max-width: 640px) {
+
+  
+}
+/* Up to Landskape Phone
+/* ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## */
+@media (max-width: 480px) {
+	
+
+
+	/*.main{
+		width: 360px;
+	}*/
+ }
+/* Up to Portrait Phone
+/* ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## */
+@media (max-width: 420px) {
+	
+
+}
+@media (max-width: 380px) {
+	
+}
+
